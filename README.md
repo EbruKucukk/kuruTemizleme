@@ -1,0 +1,2 @@
+# kuruTemizleme
+ 
