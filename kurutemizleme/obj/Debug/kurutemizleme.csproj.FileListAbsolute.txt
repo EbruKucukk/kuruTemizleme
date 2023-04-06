@@ -1,0 +1,144 @@
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\bin\Debug\kurutemizleme.exe.config
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\bin\Debug\kurutemizleme.exe
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\bin\Debug\kurutemizleme.pdb
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.Form1.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.Properties.Resources.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.exe
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.pdb
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.Form2.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.Form3.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.UserControl1.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox1.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\bin\Debug\zu\kurutemizleme.resources.dll
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox2.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox2.zu.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\zu\kurutemizleme.resources.dll
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\bin\Debug\xh-ZA\kurutemizleme.resources.dll
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox2.xh-ZA.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\xh-ZA\kurutemizleme.resources.dll
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox3.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.giris.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox4.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.saatler.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox5.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama1.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox6.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox7.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox8.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.personelGirisi.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox9.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama2.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox91.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox92.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messageboxx2.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messageboxx3.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messageboxx4.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama3.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama4.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama5.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama6.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama7.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama8.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama9.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama91.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama92.resources
+C:\Users\HP\Desktop\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama93.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\bin\Debug\kurutemizleme.exe.config
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\bin\Debug\kurutemizleme.exe
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\bin\Debug\kurutemizleme.pdb
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\bin\Debug\xh-ZA\kurutemizleme.resources.dll
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\bin\Debug\zu\kurutemizleme.resources.dll
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama1.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama2.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama3.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama4.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama5.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama6.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama7.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama8.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama9.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama93.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama91.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama92.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.Form1.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.Form2.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.Form3.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.giris.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox1.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox2.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox3.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox4.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox5.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox6.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox7.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox8.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox9.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox91.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox92.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messageboxx2.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messageboxx3.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messageboxx4.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.personelGirisi.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.Properties.Resources.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.saatler.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.UserControl1.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox2.xh-ZA.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox2.zu.resources
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\xh-ZA\kurutemizleme.resources.dll
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\zu\kurutemizleme.resources.dll
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.exe
+C:\Users\HP\Desktop\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.pdb
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\bin\Debug\kurutemizleme.exe.config
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\bin\Debug\kurutemizleme.exe
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\bin\Debug\kurutemizleme.pdb
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\bin\Debug\xh-ZA\kurutemizleme.resources.dll
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\bin\Debug\zu\kurutemizleme.resources.dll
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama1.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama2.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama3.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama4.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama5.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama6.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama7.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama8.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama9.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama93.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama91.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.AYıkama92.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.Form1.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.Form2.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.Form3.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.giris.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox1.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox2.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox3.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox4.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox5.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox6.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox7.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox8.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox9.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox91.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox92.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messageboxx2.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messageboxx3.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messageboxx4.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.personelGirisi.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.Properties.Resources.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.saatler.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.UserControl1.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox2.xh-ZA.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.messagebox2.zu.resources
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\xh-ZA\kurutemizleme.resources.dll
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\zu\kurutemizleme.resources.dll
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.exe
+C:\Users\HP\Desktop\uyg\banü bil müh\bilg.müh.3.sinif\bil.müh.3.1\görsel programlama\kurutemizleme\kurutemizleme\kurutemizleme\obj\Debug\kurutemizleme.pdb
